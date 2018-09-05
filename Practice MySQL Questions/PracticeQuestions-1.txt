@@ -1,0 +1,19 @@
+1- Find all products (product code and product name) which are ordered by customer "Herkku Gifts" on 11/18/2003. 
+
+
+
+2- For each product list the product code and the total number of orders containing that product. You do not need to list a product if it has not been in any orders.
+
+
+
+3- Find the number and name of all customers who have never ordered a prodcut named "2001 Ferrari Enzo".
+
+
+
+4- We want to find out how many of each product customer "Mini Wheels Co." has ordered. So return a table with product code and the total quantity ordered of that product by customer "Mini Wheels Co." (Your query should return every product even if "Mini Wheels Co." has never ordered that product).
+
+
+5- Find the first name and last name of all employees whose office is located in "Boston" and report to "Anthony Bow".
+
+
+
