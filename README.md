@@ -1,2 +1,2 @@
-# CS_340-400
-CS 340-400 Introduction to Databases (Oregon State University)
+# Databases
+Projects that use SQL/MySQL and Database Techniques
